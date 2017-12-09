@@ -1,0 +1,8 @@
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\bin\Debug\LibraryOfClass.dll
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\bin\Debug\LibraryOfClass.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

@@ -1,0 +1,5 @@
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\LibraryOfClass\bin\Debug\LibraryOfClass.dll
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\LibraryOfClass\bin\Debug\LibraryOfClass.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\LibraryOfClass\obj\Debug\LibraryOfClass.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\LibraryOfClass\obj\Debug\LibraryOfClass.dll
+d:\users10\asus\documents\visual studio 2015\Projects\Namespaces\LibraryOfClass\obj\Debug\LibraryOfClass.pdb
